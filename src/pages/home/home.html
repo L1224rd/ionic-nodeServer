@@ -1,0 +1,8 @@
+<ion-header></ion-header>
+
+<ion-content padding>
+    <ion-input type="text" placeholder="Username" [(ngModel)]="username"></ion-input>
+    <ion-input type="password" placeholder="Password" [(ngModel)]="password"></ion-input>
+    <ion-input type="password" placeholder="Confirm Password" [(ngModel)]="newPassword"></ion-input>
+    <button ion-button (click)="registerUser()">Registrar</button>
+</ion-content>
