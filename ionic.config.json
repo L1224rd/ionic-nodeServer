@@ -1,6 +1,15 @@
 {
+<<<<<<< HEAD
   "name": "lgStarter",
   "app_id": "",
   "type": "ionic-angular",
   "integrations": {}
+=======
+  "name": "loginstart",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+>>>>>>> remotes/origin/master
 }
